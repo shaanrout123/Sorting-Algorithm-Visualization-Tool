@@ -15,7 +15,6 @@ The **Sorting Visualizer** application is a Python program that provides visuali
 
 - Python 3.x
 - Matplotlib
-- NumPy
 - Tkinter
 
 ## Installation
